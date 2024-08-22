@@ -1,2 +1,1 @@
-# ToDo.github.io
-Check out the website here- (https://saiviswanathpadala.github.io/to-do-list/)
+## Check out the Application here- https://saiviswanathpadala.github.io/to-do-list/
